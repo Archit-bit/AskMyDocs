@@ -1,0 +1,3 @@
+Archit worked on a European energy utility platform.
+He handled billing, reconciliation, SQL analysis, Dynamics AX, and backend workflows.
+He is now learning Python backend, FastAPI, system design, DSA, and AI tools like LangChain.
